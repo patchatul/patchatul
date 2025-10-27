@@ -1,12 +1,12 @@
-<h1 align="center"> <a href="https://patchatul.github.io/patcharalak-tulyakul/"><img src="https://avatars.githubusercontent.com/u/153275431?s=400&u=e43d54d0594125dde04813937132975306503c46&v=4" height="28" width="28"/>✌️Hi there, I'm Pat!✌️<a href="https://patchatul.github.io/patcharalak-tulyakul/"><img src="https://avatars.githubusercontent.com/u/153275431?s=400&u=e43d54d0594125dde04813937132975306503c46&v=4" height="28" width="28"/></a></h1>
+<h1 align="center"><a href="https://patchatul.github.io/patcharalak-tulyakul/"><img src="https://avatars.githubusercontent.com/u/153275431?s=400&u=e43d54d0594125dde04813937132975306503c46&v=4" height="28" width="28"/> Hi there, I'm Pat! <img src="https://avatars.githubusercontent.com/u/153275431?s=400&u=e43d54d0594125dde04813937132975306503c46&v=4" height="28" width="28"/></a></h1>
   
-🎓 Computer Science student in FUSE program at HCC and transferring to USF.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" alt="Woman Student Light Skin Tone" width="28" height="28" /> Computer Science student in FUSE program at HCC and transferring to USF.
 
-💻 Currently working on a project as a Front-End Developer and Scrum Master.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="28" height="28" /> Currently working on a project as a Front-End Developer and Scrum Master.
   
-🌱 Currently learning Back-End, ML/AI, and many more.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="28" height="28" /> Currently learning Back-End, ML/AI, and many more.
 
-🎉 Feel free to connect with me: <a href="https://www.linkedin.com/in/patcharalak-tulyakul/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/patcharalak-tulyakul/"/></a>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="28" height="28" /> Feel free to connect with me: <a href="https://www.linkedin.com/in/patcharalak-tulyakul/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/patcharalak-tulyakul/"/></a>
 
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
